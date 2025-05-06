@@ -67,3 +67,5 @@ print("Hodina:", cas.hour, "Minuta:", cas.minute)
 print("Čas v sekundách:", time.time())
 time.sleep(1)
 print("Pauza 1 sekunda dokončena")
+
+
