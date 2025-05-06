@@ -4,6 +4,7 @@ vek = 18
 
 # 2. Operátory přiřazení
 a = 6
+print("a =>", a)
 a += 6
 print("a += 6 =>", a)
 a -= 2
